@@ -72,7 +72,7 @@ Here are some projects I've worked on:
 I'm open to connecting with developers, collaborating on projects, and exploring job opportunities.
 
 - 💼 GitHub: [@abuzarhamad](https://github.com/abuzarhamad)
-- 📧 Email: Add your professional email here
+- 📧 Email: abuzarhamad06@gmail.com
 - 🔗 LinkedIn: Add your LinkedIn profile here
 
 ---
